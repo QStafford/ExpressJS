@@ -1,0 +1,23 @@
+{
+    "0": {
+        "name": "Quincy",
+        "message": "On my Laptop!"
+    },
+    "1": {
+        "name": "Duncan",
+        "message": "Idk who this is"
+    },
+    "2": {
+        "name": "Leapold",
+        "message": "Idk who this is either"
+    },
+    "3": {
+        "name": "Meme",
+        "message": "This is a meme at this point"
+    },
+    "4": {
+        "name": "Meme",
+        "message": "Next time on dragon ball Z"
+    },
+    "nextid": 5
+}
